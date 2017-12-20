@@ -50,6 +50,12 @@
     <Compile Include="game1.Designer.cs">
       <DependentUpon>game1.cs</DependentUpon>
     </Compile>
+    <Compile Include="game2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="game2.Designer.cs">
+      <DependentUpon>game2.cs</DependentUpon>
+    </Compile>
     <Compile Include="menu.cs">
       <SubType>Form</SubType>
     </Compile>
