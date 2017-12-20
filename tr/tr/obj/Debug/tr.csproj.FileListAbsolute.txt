@@ -6,3 +6,12 @@ E:\git\tr\tr\tr\obj\Debug\tr.Properties.Resources.resources
 E:\git\tr\tr\tr\obj\Debug\tr.csproj.GenerateResource.Cache
 E:\git\tr\tr\tr\obj\Debug\tr.exe
 E:\git\tr\tr\tr\obj\Debug\tr.pdb
+C:\Users\Stolbn\Documents\training_reflex\tr\tr\bin\Debug\tr.exe.config
+C:\Users\Stolbn\Documents\training_reflex\tr\tr\bin\Debug\tr.exe
+C:\Users\Stolbn\Documents\training_reflex\tr\tr\bin\Debug\tr.pdb
+C:\Users\Stolbn\Documents\training_reflex\tr\tr\obj\Debug\tr.csprojResolveAssemblyReference.cache
+C:\Users\Stolbn\Documents\training_reflex\tr\tr\obj\Debug\tr.Properties.Resources.resources
+C:\Users\Stolbn\Documents\training_reflex\tr\tr\obj\Debug\tr.csproj.GenerateResource.Cache
+C:\Users\Stolbn\Documents\training_reflex\tr\tr\obj\Debug\tr.csproj.CoreCompileInputs.cache
+C:\Users\Stolbn\Documents\training_reflex\tr\tr\obj\Debug\tr.exe
+C:\Users\Stolbn\Documents\training_reflex\tr\tr\obj\Debug\tr.pdb
