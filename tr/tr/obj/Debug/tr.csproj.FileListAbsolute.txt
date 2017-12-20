@@ -1,0 +1,8 @@
+E:\git\tr\tr\tr\bin\Debug\tr.exe.config
+E:\git\tr\tr\tr\bin\Debug\tr.exe
+E:\git\tr\tr\tr\bin\Debug\tr.pdb
+E:\git\tr\tr\tr\obj\Debug\tr.csprojResolveAssemblyReference.cache
+E:\git\tr\tr\tr\obj\Debug\tr.Properties.Resources.resources
+E:\git\tr\tr\tr\obj\Debug\tr.csproj.GenerateResource.Cache
+E:\git\tr\tr\tr\obj\Debug\tr.exe
+E:\git\tr\tr\tr\obj\Debug\tr.pdb
