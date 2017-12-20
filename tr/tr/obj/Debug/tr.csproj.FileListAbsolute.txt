@@ -6,3 +6,13 @@ E:\git\tr\tr\tr\obj\Debug\tr.Properties.Resources.resources
 E:\git\tr\tr\tr\obj\Debug\tr.csproj.GenerateResource.Cache
 E:\git\tr\tr\tr\obj\Debug\tr.exe
 E:\git\tr\tr\tr\obj\Debug\tr.pdb
+D:\Курсач\training_reflex\tr\tr\obj\Debug\tr.csprojResolveAssemblyReference.cache
+D:\Курсач\training_reflex\tr\tr\obj\Debug\vas9dayn.game1.resources
+D:\Курсач\training_reflex\tr\tr\obj\Debug\tr.Properties.Resources.resources
+D:\Курсач\training_reflex\tr\tr\obj\Debug\tr.csproj.GenerateResource.Cache
+D:\Курсач\training_reflex\tr\tr\obj\Debug\tr.csproj.CoreCompileInputs.cache
+D:\Курсач\training_reflex\tr\tr\obj\Debug\tr.exe
+D:\Курсач\training_reflex\tr\tr\obj\Debug\tr.pdb
+D:\Курсач\training_reflex\tr\tr\bin\Debug\tr.exe.config
+D:\Курсач\training_reflex\tr\tr\bin\Debug\tr.exe
+D:\Курсач\training_reflex\tr\tr\bin\Debug\tr.pdb
